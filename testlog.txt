@@ -1,0 +1,12 @@
+PASS
+ok      github.com/AlexDespod/shippingapi/test/api1_test        (cached) [no tests to run]
+=== RUN   TestGetMessage
+--- PASS: TestGetMessage (0.01s)
+PASS
+ok      github.com/AlexDespod/shippingapi/test/api2xml_test     (cached)
+=== RUN   TestGetResponse
+--- PASS: TestGetResponse (0.19s)
+=== RUN   TestMarshalAPI2XML
+--- PASS: TestMarshalAPI2XML (0.00s)
+PASS
+ok      github.com/AlexDespod/shippingapi/test/checker_test     (cached)
